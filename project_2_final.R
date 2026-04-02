@@ -20,7 +20,7 @@ set.seed(206)
 theme_set(theme_classic())
 
 ## Load Data ####
-df = read.csv('data-raw/AirbnbListings.csv')
+df = read.csv('AirbnbListings.csv')
 
 # Check data structure
 str(df)
