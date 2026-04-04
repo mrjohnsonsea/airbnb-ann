@@ -100,3 +100,7 @@ The `caret` model is recommended for future use based on its slightly higher R-s
 - `neuralnet` — alternative ANN implementation
 - `fastDummies` — one-hot encoding
 - `pROC` — ROC curve analysis
+
+---
+
+README written with the assistance of [Claude Code](https://claude.ai/code) by Anthropic.
